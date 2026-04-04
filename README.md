@@ -15,7 +15,7 @@ I'm here because you can take the developer and turn him into a [VC](https://www
 | [openai-model-registry](https://github.com/yaniv-golan/openai-model-registry) | Production-ready Python registry for OpenAI models with parameter validation, pricing data, and CLI tools |
 | [cc-mess](https://github.com/yaniv-golan/cc-mess) | Mesh networking plugin for Claude Code — lets multiple Claude instances communicate and coordinate |
 | [cc-telegram-plus](https://github.com/yaniv-golan/cc-telegram-plus) | Enhanced Telegram channel for Claude Code — all media types, voice transcription, session management, and more |
-| [cc-telegram-plus](https://github.com/yaniv-golan/claude-familiar) | Claude Familiar — customize the Claude Code companion: personality, mood, lore, MCP tools, local reaction server, optional binary patch. |
+| [claude-familiar](https://github.com/yaniv-golan/claude-familiar) | Claude Familiar — customize the Claude Code companion: personality, mood, lore, MCP tools, local reaction server, optional binary patch. |
 | [claude-code-internals](https://github.com/yaniv-golan/claude-code-internals) | 55-lesson reverse-engineered architecture reference for Claude Code v2.1.89 and beyond, with full-text search |
 | [ostruct](https://github.com/yaniv-golan/ostruct) | Schema-first AI analysis CLI — guaranteed structured JSON from any data source, with Code Interpreter, File Search, Web Search & MCP |
 | [the-ontological-octopus](https://github.com/yaniv-golan/the-ontological-octopus) | AI agent skill that proves any two unrelated ideas are fundamentally the same thing — a sandbox for critical thinking |
