@@ -5,7 +5,7 @@ I'm here because you can take the developer and turn him into a [VC](https://www
 | Repo | Description |
 |------|-------------|
 | [mcp-bash-framework](https://github.com/yaniv-golan/mcp-bash-framework) | Portable zero-dependency Bash framework for building stdio MCP servers — no Node, no Python required |
-| [founder-skills](https://github.com/lool-ventrures/founder-skills) | AI agent skills for high-velocity startup founders |
+| [founder-skills](https://github.com/lool-ventures/founder-skills) | AI agent skills for high-velocity startup founders |
 | [proof-engine](https://github.com/yaniv-golan/proof-engine) | AI agent skill for formal verifiable proofs — every fact cited or computed, never asserted. Works with Claude, ChatGPT, Cursor & more |
 | [affinity-sdk](https://github.com/yaniv-golan/affinity-sdk) | Unofficial strongly-typed Python SDK for the Affinity CRM API — full read/write coverage, Pydantic v2, MCP server included |
 | [skill-creator-plus](https://github.com/yaniv-golan/skill-creator-plus) | Enhanced fork of Anthropic's skill-creator — bug fixes, Cowork support, and official best practices baked in |
