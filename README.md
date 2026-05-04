@@ -10,6 +10,7 @@ I'm here because you can take the developer and turn him into a [VC](https://www
 | [affinity-sdk](https://github.com/yaniv-golan/affinity-sdk) | Unofficial strongly-typed Python SDK for the Affinity CRM API — full read/write coverage, Pydantic v2, MCP server included |
 | [skill-creator-plus](https://github.com/yaniv-golan/skill-creator-plus) | Enhanced fork of Anthropic's skill-creator — bug fixes, Cowork support, and official best practices baked in |
 | [skill-packager-skill](https://github.com/yaniv-golan/skill-packager-skill) | a skill that turns a SKILL.md directory into installable artifacts for Claude Desktop/Code/Cowork, Cursor, Codex, Windsurf, Manus, ChatGPT, and the Agent Skills standard — including a CI/CD-ready repo |
+| [claude-plugin-doctor](https://github.com/yaniv-golan/claude-plugin-doctor) | Diagnose drift across the six cache layers of the Claude Code / Claude Desktop plugin system, and recommend the minimum-impact fix |
 | [git-hex](https://github.com/yaniv-golan/git-hex) | AI-assisted git history refactoring via MCP — safe interactive rebase, fixup commits, and amendments |
 | [pretext-skill](https://github.com/yaniv-golan/pretext-skill) | AI skill for @chenglou/pretext — exact text metrics without DOM reflows |
 | [airtable-openapi-schema-generator](https://github.com/yaniv-golan/airtable-openapi-schema-generator) | Generates an OpenAPI 3.1.0 schema from your Airtable base — drop it straight into a Custom GPT as Actions |
