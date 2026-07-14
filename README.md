@@ -7,6 +7,7 @@ I'm here because you can take the developer and turn him into a [VC](https://www
 | [MCP Bash Framework](https://github.com/yaniv-golan/mcp-bash-framework) | Portable zero-dependency Bash framework for building stdio MCP servers — no Node, no Python required |
 | [Founder Skills](https://github.com/lool-ventures/founder-skills) | AI agent skills for high-velocity startup founders |
 | [Proof Engine](https://github.com/yaniv-golan/proof-engine) | AI agent skill for formal verifiable proofs — every fact cited or computed, never asserted. Works with Claude, ChatGPT, Cursor & more |
+| [Cowork Harness](https://github.com/yaniv-golan/cowork-harness) | Scriptable, CI-friendly harness for Claude Cowork's runtime contract for testing skills across scenarios — same agent, mounts, egress allowlist, permission protocol, and sandbox limitations |
 | [Affinity SDK](https://github.com/yaniv-golan/affinity-sdk) | Unofficial strongly-typed Python SDK for the Affinity CRM API — full read/write coverage, Pydantic v2, MCP server included |
 | [Skill Creator PLUS](https://github.com/yaniv-golan/skill-creator-plus) | Enhanced fork of Anthropic's skill-creator — bug fixes, Cowork support, and official best practices baked in |
 | [Skill Packager](https://github.com/yaniv-golan/skill-packager-skill) | a skill that turns a SKILL.md directory into installable artifacts for Claude Desktop/Code/Cowork, Cursor, Codex, Windsurf, Manus, ChatGPT, and the Agent Skills standard — including a CI/CD-ready repo |
